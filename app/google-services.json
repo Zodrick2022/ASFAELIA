@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077568468036",
+    "project_id": "proyectoibero-d7d45",
+    "storage_bucket": "proyectoibero-d7d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077568468036:android:06548e3023fdb3c9bc7811",
+        "android_client_info": {
+          "package_name": "com.example.asfelia10_13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL79-lfLFLjwxtvoqJHlKi6DrExNVDylY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
